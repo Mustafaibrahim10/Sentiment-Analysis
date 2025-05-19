@@ -9,6 +9,7 @@ tqdm
 regex
 beautifulsoup4
 lxml
+joblib
 spacy         
 textblob        
 seaborn        
